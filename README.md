@@ -3,6 +3,7 @@
   <li>Overview</li>
   <li>Frontend Developer Role</li>
   <li>Testing</li>
+  <li>Download <a href="https://github.com/bangarayya/wordpress-core-styles/blob/master/wordpres-core-styles.css">Wordpress-core-styles.css </a></li>
 </ul>
 
 <h2>1.Overview</h2>
@@ -36,7 +37,7 @@
   </table>
   
   <h2>2.Frontend Developer Role</h2>
-  <h3>1.Create Wordpress Core Styles (CSS File)</h3>
+  <h3>1.Create Wordpress Core Styles (CSS File) <a href="https://github.com/bangarayya/wordpress-core-styles/blob/master/wordpres-core-styles.css">Wordpress-core-styles.css </a></h3>
   <ul>
     <li>Default wordpress Elements</li>
   <li>Widgets</li>
