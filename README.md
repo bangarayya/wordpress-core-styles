@@ -100,3 +100,10 @@
     </ul>
   </li>
   
+  <h2> Changelog</h2>
+<ul>
+  <li>1.0</li>
+   <li>Released: July 13th, 2017</li>
+</ul>
+
+
