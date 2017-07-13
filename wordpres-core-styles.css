@@ -1,8 +1,8 @@
 /*
-Theme Name: Pest Guard
+Theme Name: "Your Theme Name"
 Theme URI: http://underscores.me/
-Author: Digisamaritan
-Author URI: https://digisamaritan.com/
+Author: " "
+Author URI: " "
 Description: This will improves your business
 Version: 1.0.0
 License: GNU General Public License v2 or later
@@ -13,7 +13,7 @@ Tags: threaded-comments, theme-options, full-width-template, grid-layout
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 
-Pest Guard is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+"Your Theme Name" is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 
 Normalizing styles have been helped along thanks to the fine work of
@@ -101,7 +101,7 @@ img.aligncenter {
     margin-bottom: 1.6842em;
 }
 
-
+/*sticky post*/
 
 .sticky {}
 
@@ -110,8 +110,6 @@ img.aligncenter {
     color: #f7b926;
     font-size: 28px;
 }
- 
-/*sticky post*/
 
 .sticky-post:before  {content: "\f08d";
     margin-right: 7px;
