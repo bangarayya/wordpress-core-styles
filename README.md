@@ -99,6 +99,7 @@
        <li> Regenerate thumbnails </li>
     </ul>
   </li>
+  </ul>
   
   <h2> Changelog</h2>
 <ul>
