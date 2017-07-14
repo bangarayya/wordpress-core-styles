@@ -17,7 +17,7 @@
     <tbody>
       <tr>
         <td><h4>Ready With Wordpress Core Styles</h4><small>(CSS File)</small> </td>
-        <td><h4>Ready With Basuc Layout</h4>
+        <td><h4>Ready With Basic Layout</h4>
             <small>Sidebar Left, Sidebar Right, No Sidebar, <br>Header, Footer, Navigation</small>
         </td>
        </tr>
